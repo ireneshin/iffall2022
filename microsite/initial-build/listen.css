@@ -1,0 +1,82 @@
+html{
+    background-image: url('bg.jpg');
+    font-family: 'Nunito', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+#title{
+    text-decoration: none;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight:800;
+    position:sticky;
+    top:0;
+}
+
+.nav{
+    text-decoration: none;
+    text-align: right;
+    position: sticky;
+    top:0;
+}
+#listen{
+    text-decoration: none;
+    color: #FFBABA;
+    font-size: 20px;
+    position:sticky;
+    top:0;
+}
+
+h1{
+    color: #FFBABA;
+    font-weight: 900;
+    font-size: 90px;
+    letter-spacing: 3px;
+    text-align: center;
+    position:absolute;
+    padding-left: 550px;
+    padding-right: 450px;
+    top: 100px;
+}
+
+.disks{
+    display: block;
+    float: center;
+    margin-right: 300px;
+    padding-left: 200px;
+    margin-top: 270px;
+    margin-bottom: 40px;
+}
+
+.music{
+    display: block;
+    float:center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 100px;
+    /* float: right; */
+    /* padding-left: 500px; */
+    /* height: 150px; */
+    /* width: 400px; */
+    padding-top: 50px;
+    width: 900px;
+}
+
+.round{
+    display: block;
+    float:center;
+    padding-left: 450px;
+}
+ /* #steven{
+    transition: all 0.3s ease-in-out 0s;
+    
+}
+#steven:hover{
+    cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.3s ease-in-out 0s;
+  transform: rotate(180deg);
+} */
